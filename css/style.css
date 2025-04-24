@@ -11,3 +11,16 @@ body{margin:0;font-family:Arial,sans-serif;background:#fff}.hero{position:relati
     width: 100% !important;
   }
 }
+
+
+@media (max-width: 768px) {
+  .vsl-box {
+    margin: 0 auto !important;
+    display: block;
+  }
+
+  .btn-cta {
+    display: block;
+    margin: 30px auto 0 auto;
+  }
+}
